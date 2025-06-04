@@ -2,9 +2,10 @@
 Basic exercises in Python
 # 📘 Personal Python Exercises
 
-This repository contains personal exercises, notes, and small experiments created as part of my journey to learn Python from scratch.
+This repository contains a collection of **basic Python exercises** I've created to support my learning journey as a self-taught developer.
 
-The main goal is to track my progress, build a strong programming foundation, and prepare for more advanced topics like Artificial Intelligence, Machine Learning, and Software Development.
+These exercises focus on the **fundamentals of Python programming**, including variables, lists, loops, functions, dictionaries, and other core concepts.  
+They help me reinforce what I study and build a strong foundation for more advanced topics like Machine Learning and AI.
 
 ## 🧠 What's Inside
 
